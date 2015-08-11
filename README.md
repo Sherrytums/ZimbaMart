@@ -1,0 +1,2 @@
+# ZimbaMart
+E-commerce platform
